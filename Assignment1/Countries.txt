@@ -1,0 +1,5 @@
+Country1, 10 million, 500 billion, 1960, 2%
+Country2, 20 million, 1 trillion, 1970, 3%
+Country3, 30 million, 1.5 trillion, 1980, 4%
+Country4, 40 million, 2 trillion, 1990, 5%
+Country5, 50 million, 2.5 trillion, 2000, 6%
